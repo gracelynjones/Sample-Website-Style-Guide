@@ -1,4 +1,4 @@
-# Sample-Website-Style-Guide :open_file_folder:
+# Sample Website Style Guide :open_file_folder:
 Sample style guide for a website that includes a color pallette, font types, and text styles. 
 
 ## Tools Used :hammer_and_wrench:
