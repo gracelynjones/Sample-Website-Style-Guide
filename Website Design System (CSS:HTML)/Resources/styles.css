@@ -1,0 +1,110 @@
+
+* {
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.sections {
+    width: auto;
+    border: 3px DOTTED #BABCAA;
+    padding: 10px;
+    margin: 10px;
+}
+
+.colors {
+    width: auto;
+    border: 1px solid white;
+    padding: 30px;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.fonts , p {
+    width: auto;
+    padding: 10px;
+    margin: 0px 10px 0px 0px;
+    text-align: center;
+}
+
+#blush{
+    background-color: #C8A6A0;
+}
+
+#light-blue {
+    background-color: #B6D4D2;
+}
+
+#beige {
+    background-color: #C4B98F;
+}
+
+#forest-green {
+    background-color: #2F6050;
+}
+
+#montserrat-header {
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+#montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#montserrat-bold {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#montserrat-italics {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+
+#lora-header {
+    font-family: 'lora', serif;
+    text-decoration: underline;
+    font-size: larger;
+    margin-top: 2%;
+}
+
+#lora {
+    font-family: 'lora', serif;
+}
+
+#lora-bold {
+    font-family: 'lora', serif;
+    font-weight: bold;
+}
+
+#lora-italics {
+    font-family: 'lora', serif;
+    font-style: italic;
+}
+
+#h1{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        font-size: xx-large;
+}
+
+#h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: x-large;
+}
+
+#p {
+    font-family: 'lora', serif;
+}
